@@ -7,7 +7,7 @@ An analysis of shot volume, shot efficiency, and goal output across all 20 Premi
 Using match-level shot and goal data, this project computes five core attacking metrics for every club — Shots per Match, Shots on Target per Match, Shot Accuracy, Conversion Rate, and Goals per Match — then examines them from two angles:
 
 1. **Season-long attacking performance** — who generates the most attacking volume, who finishes most efficiently, and how those two things relate (or don't) to actual goal output.
-2. **Home vs. away splits** — whether a team's attacking output and efficiency shift depending on venue, and what might explain those shifts.
+2. **Home vs. away splits** — assesses whether a team's attacking output and efficiency shift depend on venue, and what might explain those shifts.
 
 ## Key findings
 
