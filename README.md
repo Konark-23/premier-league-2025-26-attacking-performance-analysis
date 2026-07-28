@@ -14,13 +14,13 @@ Using match-level shot and goal data, this project computes five core attacking 
 - **Brentford** posted the league's highest shot accuracy *and* highest conversion rate, despite ranking in the bottom five for shot volume — the clearest "quality over quantity" attacking profile in the league.
 - **Manchester City and Arsenal** topped the goals-per-match leaderboard without leading in shot volume, showing that elite finishing — not sheer chance creation — drove their attacking output.
 
-![Volume vs Efficiency Quadrant Chart](images/quadrant_scatter.png)
+![Volume vs Efficiency Quadrant Chart](quadrant_scatter.png)
 *Shot volume and shot efficiency show no consistent relationship across the league — Brentford anchors the "low volume, high efficiency" corner, while Liverpool sits almost opposite.*
 
 - **Newcastle** posted the most extreme home-field advantage of any club, ranking 1st in three of the four home/away difference metrics and 2nd in the fourth — no other team swept every metric.
 - **Nottingham Forest and Chelsea** showed a genuinely counterintuitive pattern: both took significantly more shots at home, yet converted and finished far better away — a case where attacking volume and attacking quality moved in opposite directions by venue.
 
-![Home vs Away Goals per Match Difference](images/goals_diff_chart.png)
+![Home vs Away Goals per Match Difference](goals_diff_chart.png)
 *Newcastle and Fulham lean sharply home-boosted, Forest, Chelsea, Tottenham and Palace lean away-boosted, and Bournemouth sits almost exactly at zero — the clearest neutral case in the league.*
 
 - **Sunderland** finished 7th and qualified for the Europa League despite modest attacking numbers across the board — a reminder that attacking metrics alone don't fully explain league outcomes.
