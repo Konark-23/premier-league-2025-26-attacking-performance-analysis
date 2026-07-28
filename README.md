@@ -21,7 +21,7 @@ Using match-level shot and goal data, this project computes five core attacking 
 - **Nottingham Forest and Chelsea** showed a genuinely counterintuitive pattern: both took significantly more shots at home, yet converted and finished far better away — a case where attacking volume and attacking quality moved in opposite directions by venue.
 
 ![Home vs Away Goals per Match Difference](goals_diff_chart.png)
-*Newcastle and Fulham lean sharply home-boosted, Forest, Chelsea, Tottenham and Palace lean away-boosted, and Bournemouth sits almost exactly at zero — the clearest neutral case in the league.*
+*Newcastle and Fulham lean sharply home-boosted, Forest, Chelsea, Tottenham and Palace lean away-boosted, and Bournemouth sits exactly at zero — the clearest neutral case in the league.*
 
 - **Sunderland** finished 7th and qualified for the Europa League despite modest attacking numbers across the board — a reminder that attacking metrics alone don't fully explain league outcomes.
 
