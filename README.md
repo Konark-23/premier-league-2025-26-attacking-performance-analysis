@@ -46,3 +46,11 @@ The notebook is organised into five parts:
 ## Tools used
 
 Python, pandas, and matplotlib.
+
+## How to run
+
+1. Clone this repo or download the notebook
+2. Open it in Jupyter Notebook / JupyterLab
+3. Run all cells — data is pulled live from Football-Data.co.uk, no local file needed
+
+**Requirements:** Python 3.x, pandas, matplotlib
