@@ -54,3 +54,7 @@ Python, pandas, and matplotlib.
 3. Run all cells — data is pulled live from Football-Data.co.uk, no local file needed
 
 **Requirements:** Python 3.x, pandas, matplotlib
+
+## About the author
+
+**Konark** — this is my first data analysis project, with a particular interest in sports analytics. Looking forward to taking on more projects across different areas. Connect with me on www.linkedin.com/in/konark-kumar-58b7a2374.
